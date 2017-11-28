@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moebelverwaltung", "Moebelverwaltung\Moebelverwaltung.csproj", "{6F97E5B5-4119-4BB2-BFB2-8AB1113BDD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrundlagenWiederholung", "GrundlagenWiederholung\GrundlagenWiederholung.csproj", "{33FD316A-F929-4C34-A979-871E30733155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoebelvewaltungAnwendung", "MoebelvewaltungAnwendung\MoebelvewaltungAnwendung.csproj", "{4ED630C4-3D50-4725-BD15-153CA683A129}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBMoebelverwaltungAnwendung", "VBMoebelverwaltungAnwendung\VBMoebelverwaltungAnwendung.vbproj", "{B45D0023-9EBF-4B5E-BB07-521DA44C97A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoebelverwaltungUebung", "MoebelverwaltungUebung\MoebelverwaltungUebung.csproj", "{12FB8138-3203-4608-82CA-FA70BD08FA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMoebelverwaltung", "WindowsFormsMoebelverwaltung\WindowsFormsMoebelverwaltung.csproj", "{6C3553F1-D153-4EA4-AB43-E35FCFB49472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F97E5B5-4119-4BB2-BFB2-8AB1113BDD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F97E5B5-4119-4BB2-BFB2-8AB1113BDD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F97E5B5-4119-4BB2-BFB2-8AB1113BDD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F97E5B5-4119-4BB2-BFB2-8AB1113BDD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FD316A-F929-4C34-A979-871E30733155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FD316A-F929-4C34-A979-871E30733155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FD316A-F929-4C34-A979-871E30733155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FD316A-F929-4C34-A979-871E30733155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED630C4-3D50-4725-BD15-153CA683A129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED630C4-3D50-4725-BD15-153CA683A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED630C4-3D50-4725-BD15-153CA683A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED630C4-3D50-4725-BD15-153CA683A129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45D0023-9EBF-4B5E-BB07-521DA44C97A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45D0023-9EBF-4B5E-BB07-521DA44C97A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45D0023-9EBF-4B5E-BB07-521DA44C97A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45D0023-9EBF-4B5E-BB07-521DA44C97A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FB8138-3203-4608-82CA-FA70BD08FA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FB8138-3203-4608-82CA-FA70BD08FA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FB8138-3203-4608-82CA-FA70BD08FA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FB8138-3203-4608-82CA-FA70BD08FA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3553F1-D153-4EA4-AB43-E35FCFB49472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3553F1-D153-4EA4-AB43-E35FCFB49472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3553F1-D153-4EA4-AB43-E35FCFB49472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3553F1-D153-4EA4-AB43-E35FCFB49472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BBW.Moebelverwaltung.Couchtisch" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Couchtisch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.FahrenderSessel" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAQAAAAQAAA=</HashCode>
+      <FileName>FahrenderSessel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Kommode" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIA0AAAAAAAQABAAAAAAAAA=</HashCode>
+      <FileName>Kommode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Kuechenschrank" Collapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kuechenschrank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Massagestuhl" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Massagestuhl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Moebelstueck" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAEAAAAAAAACAAAAEQABAEBAAAAAA=</HashCode>
+      <FileName>Moebelstueck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Nachttisch" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nachttisch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Program" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Rollstuhl" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Rollstuhl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Schrank" Collapsed="true">
+    <Position X="15.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAE=</HashCode>
+      <FileName>Schrank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Schreibtisch" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAAEAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Schreibtisch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Schubfach" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAAAAAAAAAACAAAAEkAAAFBAAABBI=</HashCode>
+      <FileName>Schubfach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Stuhl" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAGAABAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Stuhl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BBW.Moebelverwaltung.Tisch" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAQIAAAEAAAAAQABAAAAAAAAA=</HashCode>
+      <FileName>Tisch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BBW.Moebelverwaltung.IFahrbarerUntersatz" Collapsed="true">
+    <Position X="18.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>IFahrbarerUntersatz.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BBW.Moebelverwaltung.IFahrendeSitzgelegenheiten" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>IFahrendeSitzgelegenheiten.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BBW.Moebelverwaltung.ISitzgelegenheit" Collapsed="true">
+    <Position X="20.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISitzgelegenheit.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BBW.Moebelverwaltung.Material" Collapsed="true">
+    <Position X="23.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAgAAAIAAAEAAAAA=</HashCode>
+      <FileName>Material.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
